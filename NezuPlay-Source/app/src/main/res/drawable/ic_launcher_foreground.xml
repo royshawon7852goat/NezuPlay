@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Contour (Subtle Privacy Shield) -->
+    <path
+        android:strokeColor="#E53935"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#1F1212"
+        android:pathData="M 54,20 L 78,28 C 78,56 54,78 54,88 C 54,78 30,56 30,28 Z" />
+    <!-- Dynamic Play Triangle (Video Playback Engine) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,38 L 68,54 L 46,70 Z" />
+    <!-- Inner Accent Glow Highlight -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M 46,46 L 56,54 L 46,62 Z" />
+</vector>
